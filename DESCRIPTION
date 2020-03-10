@@ -1,0 +1,11 @@
+Package: convertUnits
+Type: Package
+Title: Convert Units of Measurement in Wastewater & Environmental Analysis
+Version: 0.1.0
+Author: Matthew Reusswig
+Maintainer: Matthew Reusswig <matt.reussiwg@gmail.com>
+Description: This package provides tools for converting between dimensional
+    units common in the analysis of wastewater and environmental data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
