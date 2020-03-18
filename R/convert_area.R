@@ -1,4 +1,4 @@
-#' convert_area
+#' Convert between area units--miles2, ft2, inch2, cm2, m2, km2
 #'
 #' @param x A vector of numbers to be converted.
 #' @param from A character vector of the units x is in. Must be length 1 or same length as x.

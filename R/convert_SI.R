@@ -1,4 +1,4 @@
-#' convert_SI
+#' Convert SI units (kilo, base, deci, centi, milli,  micro, nano, pico
 #'
 #' @param x A vector of numbers to be converted.
 #' @param from A character vector of the units x is in. Must be length 1 or same length as x.

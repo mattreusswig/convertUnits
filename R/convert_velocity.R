@@ -1,4 +1,4 @@
-#' convert_velocity
+#' Convert between velocity units--ft/s, cm/s, ft/hr, ft/min, km/hr, km/min, m/min, m/s, miles/hr, miles/min
 #'
 #' @param x A vector of numbers to be converted.
 #' @param from A character vector of the units x is in. Must be length 1 or same length as x.

@@ -1,4 +1,4 @@
-#' convert_length
+#' Conver between length units--miles, ft, inch, cm, m, km
 #'
 #' @param x A vector of numbers to be converted.
 #' @param from A character vector of the units x is in. Must be length 1 or same length as x.
